@@ -1,0 +1,4 @@
+{
+  "version": "2026.07.1",
+  "notes": "PromptTum 2026.07.1 — EXT / VB Generate: shows the paired view name in the toolbar and the Ext.NET store model, and syntax-highlights the generated .aspx (including the embedded JavaScript)."
+}
